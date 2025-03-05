@@ -1,3 +1,4 @@
+import azure.functions as func
 import logging
 from youtube_search import YoutubeSearch
 from gliner import GLiNER
