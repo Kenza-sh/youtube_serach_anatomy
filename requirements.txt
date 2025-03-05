@@ -1,6 +1,5 @@
 azure-functions
 youtube_search
-numpy==1.24.1
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.11.0+cpu
+torch==2.3.0+cpu
 gliner
