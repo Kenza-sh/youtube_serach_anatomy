@@ -3,6 +3,7 @@ import logging
 from youtube_search import YoutubeSearch
 from gliner import GLiNER
 import re
+import json
 
 class AnatomieVideoSearch:
     def __init__(self):
